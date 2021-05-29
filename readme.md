@@ -17,4 +17,8 @@ Para executar apenas os testes de contrato: npm run test:contract
 Para executar apenas os testes funcionais: npm run test:functional
 
 Tecnologias:
-Cypress 
+Cypress 7.4.0
+
+Plugins:
+cy-spok
+cypress-select-tests
