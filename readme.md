@@ -55,4 +55,4 @@ Dentro de uma pasta, abrir o terminal (prompt) e realizar os seguintes comandos:
 
 ![cypress-test-API](https://user-images.githubusercontent.com/25454762/120086750-142de680-c0b8-11eb-8ef3-1e1c45414be5.gif)
 
-!Desafie-se diariamente contrapondo o aceite de que tudo está perfeito. Nando Medeiros
+"Desafie-se diariamente contrapondo o aceite de que tudo está perfeito." Nando Medeiros
