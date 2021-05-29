@@ -14,7 +14,7 @@ Projeto desenvolvido para estudo pessoal no site - http://www.omdbapi.com/
   
 # Desafio
 
-  - Criar teste de contrato 1 filme específico
+  - Criar teste de contrato de um filme específico
   - Criar teste funcional para validar Título, Ano e Idioma do filme
   - Criar testes funcionais para filme inexistente
   
@@ -22,7 +22,6 @@ Projeto desenvolvido para estudo pessoal no site - http://www.omdbapi.com/
 
   - Clonar o repositório
   - Dentro do projeto, executar o comando [npm install]
-  - Executar os comandos a seguir para rodar os testes em modo headless nos navegadores:
 
 Para executar os testes, digitar no terminal:
 
