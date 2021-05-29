@@ -45,3 +45,14 @@ Dentro de uma pasta, abrir o terminal (prompt) e realizar os seguintes comandos:
 4. Apagar a pasta examples dentro do diretório Integration
 5. Instalar a lib para definir os contratos (schemas) cy-spok: npm install -D bahmutov/cy-spok
 6. Instalar a lib select tests para selecionar os testes: npm install -D cypress-select-tests
+
+# Gifs animados dos testes sendo executados
+
+- Modo open
+![cypress-test-API-open](https://user-images.githubusercontent.com/25454762/120086748-0d9f6f00-c0b8-11eb-8916-88d7eb2cdbae.gif)
+
+- Modo headless
+
+![cypress-test-API](https://user-images.githubusercontent.com/25454762/120086750-142de680-c0b8-11eb-8ef3-1e1c45414be5.gif)
+
+# =)
