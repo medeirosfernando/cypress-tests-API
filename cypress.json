@@ -1,0 +1,12 @@
+{
+    "baseUrl": "http://www.omdbapi.com",
+    "parameters": {
+        "id_do_filme": "tt1285016",
+        "api_key": "52ec71bf",
+        "id_do_filme_inexistente": "tt0000000",
+        "id_do_filme_vazio": "",
+        "id_do_filme_incorreto": "tt0",
+        "id_do_filme_indefinido": "TT0000001",
+        "id_do_filme_injection": "<script type=javascript>alert('teste')</script>"
+    }
+}
