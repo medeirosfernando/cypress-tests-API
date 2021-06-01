@@ -1,6 +1,4 @@
-![cy](https://user-images.githubusercontent.com/25454762/120259418-5008ad80-c26a-11eb-926e-ef0f258a000e.png)
-
-# Testes de API com Cypress
+![cy](https://user-images.githubusercontent.com/25454762/120259418-5008ad80-c26a-11eb-926e-ef0f258a000e.png) # Testes de API com Cypress
 
 ## Projeto desenvolvido para estudo pessoal
 
