@@ -2,7 +2,7 @@
 
 # Testes de API com Cypress
 
-### Projeto desenvolvido para estudo pessoal
+## Projeto desenvolvido para estudo pessoal
 
 - [Site](http://www.omdbapi.com/)
 
